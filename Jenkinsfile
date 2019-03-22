@@ -5,7 +5,7 @@ pipeline {
     MAJOR_VERSION = 1
   }
 
-#  stages {
+  stages {
 #    stage('Say Hello') {
 #      agent any
 #
